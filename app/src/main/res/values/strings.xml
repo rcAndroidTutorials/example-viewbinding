@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewBindingExample</string>
+    <string name="loginTitle">Bienvenido</string>
+    <string name="loginUsername">Nombre de usuario</string>
+    <string name="loginPassword">Contraseña</string>
+    <string name="loginButtonLogin">Login</string>
+    <string name="loginButtonRegister">Registro</string>
+</resources>
